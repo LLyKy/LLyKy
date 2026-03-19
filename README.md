@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Liều Lý Kỳ</h1>
+<h1 align="center">Liều Lý Kỳ</h1>
 <h3 align="center">Backend Engineer • Risk Modeling • Real-Time Financial Systems</h3>
 
 <p align="center">
